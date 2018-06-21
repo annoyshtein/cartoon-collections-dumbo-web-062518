@@ -22,9 +22,6 @@ def find_the_cheese(list_of_items)
   cheese_types = ["cheddar", "gouda", "camembert"]
   
     list_of_items.find do |item|
-      if item == "cheddar"
-        puts "cheddar is in"
-      end
     end
   
 end
