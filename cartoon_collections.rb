@@ -21,6 +21,7 @@ end
 def find_the_cheese(list_of_items)
   cheese_types = ["cheddar", "gouda", "camembert"]
   list_of_items.find do |items|
+    
 end
 
 find_the_cheese(["burger","cheddar","fries"])
