@@ -24,3 +24,5 @@ def find_the_cheese(list_of_items)
     list_of_items.find do |items|
   end
 end
+
+find_the_cheese()
