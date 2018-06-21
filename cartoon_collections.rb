@@ -20,11 +20,11 @@ end
 
 def find_the_cheese(list_of_items)
   cheese_types = ["cheddar", "gouda", "camembert"]
-  cheese_types.
+  cheese_types.find do |cheese|
     list_of_items.find do |item|
       item == 
     end
-  
+  end
 end
 
 find_the_cheese(["burger","cheddar","fries"])
