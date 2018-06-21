@@ -27,4 +27,4 @@ def find_the_cheese(list_of_items)
   end
 end
 
-find_the_cheese(["burger","chedddar","fries"])
+find_the_cheese(["burger","cheddar","fries"])
