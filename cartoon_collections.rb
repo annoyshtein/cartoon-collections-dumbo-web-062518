@@ -19,7 +19,7 @@ def long_planeteer_calls(planeteer_calls_array)
 end
 
 def find_the_cheese(list_of_items)
-  # cheese_types = ["cheddar", "gouda", "camembert"]
+  cheese_types = ["cheddar", "gouda", "camembert"]
   #cheese_types.each do |cheese|
     list_of_items.find do |items|
   #end
